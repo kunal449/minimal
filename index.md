@@ -8,6 +8,6 @@ This is a clone of Russel and Norvig's "Artificial Intelligence - A Modern Appro
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kunal449/aima-java)
 
-<center><img src="images/ai.jpg"/></center>
+<center><img src="assets/img/ai.jpg"/></center>
 
 ---
